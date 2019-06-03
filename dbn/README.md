@@ -1,0 +1,1 @@
+Get RNA structure elements from bracket sequence
